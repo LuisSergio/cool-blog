@@ -1,6 +1,6 @@
 export default function Home()
 {
-  return <h1>My First Home Page</h1>
+  return <h1>My Second Home Page</h1>
 }
 /*
 import Image from 'next/image'
